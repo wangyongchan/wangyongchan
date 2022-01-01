@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @wangyongchan
+- 👀 I’m interested in ... Greencoin!
+- 🌱 I’m currently learning ... cryptocurrency
+- 💞️ I’m looking to collaborate on ... computer science
+- 📫 How to reach me ... wangyongchan@gmx.com
